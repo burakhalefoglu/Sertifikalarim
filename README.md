@@ -10,7 +10,7 @@
 
 <img src="https://r.resimlink.com/joKIh.jpg" width=50% height=50%>
 
-<img src="https://r.resimlink.com/e7XTKlI.jpg" width=50% height=50%> 
+<img src="https://resimlink.com/e7XTKlI" width=50% height=50%> 
 
 <img src="https://r.resimlink.com/5rYg.jpg" width=50% height=50%>
 
