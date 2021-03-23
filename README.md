@@ -12,6 +12,6 @@
 
 <img src="https://r.resimlink.com/5rYg.jpg" width=50% height=50%>
 
-<img src="https://r.resimlink.com/e7XTKlI.jpg" width=50% height=50%> 
+<img src="https://r.resimlink.com/4hTx78CK.jpg" width=50% height=50%> 
 
 <img src="https://r.resimlink.com/CtlI2Y.png" width=50% height=50%>
